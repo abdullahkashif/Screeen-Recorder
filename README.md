@@ -1,4 +1,4 @@
-# Screeen-Recorder
+# Screen-Recorder
 This is Your Own Screen Recorder
 
 # INSTALLATION
