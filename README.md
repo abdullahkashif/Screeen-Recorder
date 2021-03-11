@@ -15,3 +15,6 @@ Done!
 1. Linux
 2. Windows
 3. MacOS
+
+# Please Open a Issue If There Are any issues
+# Thanks And I Hope You Enjoy It!
